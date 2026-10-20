@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: addr2repo
+Version: 0.1.0
+Summary: Map deployed contract addresses to source files in a local repo (proxy-aware).
+Requires-Python: >=3.10
+Requires-Dist: pycryptodome>=3.19
+Requires-Dist: requests>=2.31

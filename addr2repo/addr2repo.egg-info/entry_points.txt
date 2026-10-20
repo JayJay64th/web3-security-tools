@@ -1,0 +1,2 @@
+[console_scripts]
+addr2repo = addr2repo.cli:main
